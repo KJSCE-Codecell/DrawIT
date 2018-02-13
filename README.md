@@ -2,7 +2,7 @@
 A template for javascript project for JS workshop
 
 
-#Authors 
+## Authors 
 
 1. Showndarya Madhavan
 2. Ankitmani Tripathi
